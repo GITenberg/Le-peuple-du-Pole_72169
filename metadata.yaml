@@ -1,5 +1,8 @@
 _repo: Le-peuple-du-Pole_72169
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72169-h/images/cover.jpg
 creator:
   author:
     agent_name: Derennes, Charles
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Charles_Derennes
     - https://fr.wikipedia.org/wiki/Charles_Derennes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72169#Le-peuple-du-Pole
 gutenberg_issued: '2023-11-19'
 identifiers:
   gutenberg: '72169'
